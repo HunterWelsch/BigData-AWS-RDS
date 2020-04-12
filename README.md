@@ -8,7 +8,7 @@ Goals:
 * Store the results on an AWS RDS database.
 * Determine if reviews are biased using PySpark or SQL with the appropriate statistical methods.
 
-# Tools/ Languages Used:
+## Tools/ Languages Used:
 * AWS (S3 and RDS)
 * Google Colab
 * Python
